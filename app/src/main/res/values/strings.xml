@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Safe Naija</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- MAIN ACTIVITY SCREEN -->
+    <string name="discover"> Discover </string>
+    <string name="home"> Home </string>
+    <string name="messages"> Messages </string>
+    <string name="profile"> Profile </string>
+
+    <!-- SIGN IN SCREEN -->
+    <string name="sign_in"> Sign In </string>
+    <string name="login_text"> Login to access available jobs</string>
+
 </resources>

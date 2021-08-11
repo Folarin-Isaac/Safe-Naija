@@ -1,10 +1,11 @@
-package com.example.safenaija
+package com.example.safenaija.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import com.example.safenaija.R
 
 class SplashScreen : AppCompatActivity() {
     //Loading time for the splash screen
